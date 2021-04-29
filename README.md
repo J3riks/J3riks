@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![J3riks's GitHub stats](https://github-readme-stats.vercel.app/api?username=J3riks&show_icons=true&title_color=00FFFF&text_color=FF00FF&icon_color=FF0000&border_color=00FF00&bg_color=000000)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brkgrp1)
